@@ -8,11 +8,11 @@ import time
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-BOT_TOKEN = "8080811246:AAHYceytHECmSlO8S7wgqd8Tb2H9WYQbz5o"
-MAIN_CHANNEL_ID = "@studymaterial232"  # Using username instead of ID for better compatibility
-CONTENT_CHANNEL_ID = -1002620628043  # fffffkkkdsa content channel ID
-MAIN_CHANNEL_USERNAME = "@studymaterial232"
-BOT_USERNAME = "study_mat342l_bot"  # Your bot username
+BOT_TOKEN = "your "
+MAIN_CHANNEL_ID = "your"  # Using username instead of ID for better compatibility
+CONTENT_CHANNEL_ID = -100123444555  #  content channel ID it will start with -100 always 
+MAIN_CHANNEL_USERNAME = "@abc"
+BOT_USERNAME = "ya"  # Your bot username
 
 media_store = {}
 # Cache to store recent membership checks to avoid API spam
